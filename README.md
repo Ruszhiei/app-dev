@@ -11,7 +11,6 @@
    >"Survival isn't just about winning - It's about choosing what kind of person you'll be"
  [title](https://medium.com/@LostInTranslation_/what-alice-in-borderland-taught-me-about-the-meaning-of-life-8d45262b2af3)
 
-   > - *Main Theme of the series*
 ---
 ## Summary
 *Alice in Borderland* The show tells the story about multiple people who have suddenly been transported into an alternative reality, 
@@ -19,6 +18,7 @@ where they are forced to play deadly games in order to survive. Every game provi
 they are searching for a way to return to the world they are used to.
 ---
 <img width="1920" height="2688" alt="image" src="https://github.com/user-attachments/assets/bca390c4-0902-45b9-adfb-fabf4ad096b8" />
+
 
 
 
