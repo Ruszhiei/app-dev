@@ -17,7 +17,8 @@
 where they are forced to play deadly games in order to survive. Every game provides them with a visa, which prolongs their stay, while 
 they are searching for a way to return to the world they are used to.
 ---
-<img width="1920" height="2688" alt="image" src="https://github.com/user-attachments/assets/bca390c4-0902-45b9-adfb-fabf4ad096b8" />
+<img width="690" height="388" alt="image" src="https://github.com/user-attachments/assets/b5f96970-5b53-4847-ba05-1bd2c53dd228" />
+
 
 
 
